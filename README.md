@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmperorKayobi
 - 👀 I’m interested in CFD, PIC Simulations. 
 - 🌱 I’m currently learning Japanease.
-- 📫 Visit me on my discord: https://discord.gg/NV2vFdSyu4
+- 📫 Add me on discord: 火曜日#2555
 
 <!---
 EmperorKayobi/EmperorKayobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
