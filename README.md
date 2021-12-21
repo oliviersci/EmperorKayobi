@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmperorKayobi
 - 👀 I’m interested in Particle-in-Cell Simulations and Physics. 
 - 🌱 I’m currently learning Japanease.
-- 📫 Add me on discord: 火曜日#2555
+- 📫 Add me on discord: ||||||||||||||||||#2555
 
 <!---
 EmperorKayobi/EmperorKayobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
